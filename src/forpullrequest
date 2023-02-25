@@ -1,3 +1,11 @@
 i created a repo in github
 
 i will create a new file and add it to new branch bbbranch and then commit and push
+
+added to merge master
+
+and now added only to new bbbranch
+
+NOW master is having one new folder
+but bbbranch is not having that
+now i will add "this line" in bbbranch plus the new folder from master
